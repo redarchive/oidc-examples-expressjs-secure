@@ -1,0 +1,16 @@
+{
+  "name": "oidc-examples-expressjs",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Minhyeok Park <opensource@pmh.codes>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "undici": "^5.14.0"
+  }
+}
